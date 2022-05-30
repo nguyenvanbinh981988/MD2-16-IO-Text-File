@@ -8,4 +8,6 @@
 35
 8
 9
-10Gia tri max la: 35
+10
+
+ Gia tri max la: 35
